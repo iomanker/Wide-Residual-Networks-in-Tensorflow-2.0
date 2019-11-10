@@ -4,7 +4,7 @@ This network is created by **[titu1994/Wide-Residual-Networks](https://github.co
 ### Usage
 If you want to use this code, just import this file.
 ```python
-import wide_residial_network as wrn
+from wide_resnet import WideResidualNetwork as wresnet
 ```
 I also attached a Cifar10 [demo](https://github.com/iomanker/Wide-Residual-Networks-in-Tensorflow-2.0/blob/master/wres-cifar10-demo.ipynb) on Jupyter Notebook.
 ### Acknowledgement
